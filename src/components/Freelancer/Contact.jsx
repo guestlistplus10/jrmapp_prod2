@@ -4,7 +4,7 @@ function zeigePopup() {
   alert("Dies ist ein Popup-Fenster!");
 }
 
-export function Contact() {
+ function Contact() {
   return (
     <section className="contact-crev section-padding" data-scroll-index="7">
       <div className="container">
