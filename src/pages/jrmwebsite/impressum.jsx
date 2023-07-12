@@ -8,7 +8,7 @@ import Layout from '@/layouts/default';
 
 import Navigation from '@/components/Showcases/Navigation';
 import Menu from '@/components/Showcases/Menu';
-import Contact from '@/components/Freelancer/contact';
+
 
 
 
