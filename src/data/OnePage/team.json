@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "picture": "/dark/assets/imgs/jrmwebimg/mitglieder/coco.jpg",
+    "position": "Gründer",
+    "name": "Coco"
+  },
+  {
+    "id": 2,
+    "picture": "/dark/assets/imgs/jrmwebimg/mitglieder/tristan.jpg",
+    "position": "Gründer",
+    "name": "Guestlist +10"
+  },
+  {
+    "id": 3,
+    "picture": "/dark/assets/imgs/jrmwebimg/mitglieder/dimi.jpg",
+    "position": "A&R",
+    "name": "Dimi"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/releases/caseclosed.jpg",
+    "type": "KidxDrip",
+    "title": "Case Closed"
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/releases/gravity.jpg",
+    "type": "Coco",
+    "title": "Gravity"
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/releases/keinwort.jpg",
+    "type": "Jeta",
+    "title": "Kein Wort"
+  },
+  {
+    "id": 4,
+    "image": "assets/imgs/releases/lefaisattention.jpg",
+    "type": "Jeta",
+    "title": "Le Fais Attention"
+  },
+  {
+    "id": 5,
+    "image": "assets/imgs/releases/lilsunshine.jpg",
+    "type": "Coco",
+    "title": "Lil Sunshine"
+  },
+  {
+    "id": 6,
+    "image": "assets/imgs/releases/milano.jpg",
+    "type": "Coco",
+    "title": "Milano"
+  },
+  {
+    "id": 7,
+    "image": "assets/imgs/releases/outofline.jpg",
+    "type": "Out of Line",
+    "title": "KidxDrip"
+  },
+  {
+    "id": 8,
+    "image": "assets/imgs/releases/talkback.jpg",
+    "type": "bbyJ ft. Coco",
+    "title": "Talk Back"
+  },
+  {
+    "id": 9,
+    "image": "assets/imgs/releases/tausendstiche.jpg",
+    "type": "Jeta",
+    "title": "Tausend Stiche"
+  },
+  {
+    "id": 10,
+    "image": "assets/imgs/releases/tequiero.jpg",
+    "type": "Lola",
+    "title": "Te Quiero"
+  }
+]

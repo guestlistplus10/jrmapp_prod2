@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Musikproduktion",
+    "features": [
+      "Exclusive Beatproduction",
+      "Songwriting",
+      "Recording",
+      "Mix & Mastering"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "Visuals",
+    "features": [
+      "Color Grading & Postproduction",
+      "Musikvideos & Visuals",
+      "Social-Media Inhalte",
+      "Artworks"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/serv-icons/2.png",
+    "title": "Vertrieb & Management",
+    "features": [
+      "Künstlerentwicklung",
+      "Künstlerbetreuung",  
+      "Marketingstrategien",
+      "Vertrieb auf allen Streamingplatformen"
+    ]
+  }
+]

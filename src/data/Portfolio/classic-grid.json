@@ -1,0 +1,78 @@
+{
+  "filters": [
+    {
+      "id": 1,
+      "title": "Alles",
+      "filter": "*",
+      "count": "08"
+    },
+    {
+      "id": 2,
+      "title": "DAW",
+      "filter": ".daw",
+      "count": "03"
+    },
+    {
+      "id": 3,
+      "title": "Software",
+      "filter": ".software",
+      "count": "02"
+    },
+    {
+      "id": 4,
+      "title": "Hardware",
+      "filter": ".hardware",
+      "count": "03"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "filter": "daw",
+      "image": "/dark/assets/imgs/jrmwebimg/icons/protoolsicon.png",
+      "type": "Design ART",
+      "year": "2023",
+      "title": "Avid ProTools"
+    },
+    {
+      "id": 2,
+      "filter": "daw",
+      "image": "/dark/assets/imgs/jrmwebimg/icons/abletonicon.png",
+      "type": "Design ART",
+      "year": "2023",
+      "title": "Ableton Live"
+    },
+    {
+      "id": 3,
+      "filter": "daw",
+      "image": "/dark/assets/imgs/jrmwebimg/icons/flicon.png",
+      "type": "Design ART",
+      "year": "2023",
+      "title": "Fl Studio"
+    },
+    {
+      "id": 4,
+      "filter": "daw",
+      "image": "/dark/assets/imgs/jrmwebimg/icons/logicicon.png",
+      "type": "Design ART",
+      "year": "2023",
+      "title": "Logic Pro"
+    },
+    {
+      "id": 5,
+      "filter": "brand",
+      "image": "/dark/assets/imgs/works/grid2/5.jpg",
+      "type": "Design ART",
+      "year": "2023",
+      "title": "Character Design"
+    },
+    {
+      "id": 6,
+      "filter": "app",
+      "image": "/dark/assets/imgs/works/grid2/6.jpg",
+      "type": "Design ART",
+      "year": "2023",
+      "title": "Character Design"
+    }
+  ]
+}
