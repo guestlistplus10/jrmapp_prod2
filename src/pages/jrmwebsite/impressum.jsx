@@ -43,18 +43,16 @@ function LandingPreview() {
         <h5>Impressum</h5>
         <h2>Verantwortliche:</h2>
 <p>
-Valentin Schlosser <br/>
-Am Römerweg 16a <br/>
-67105 Schifferstadt <br/>
-Tel: +4917631171835 <br/>
-</p>
-<br/>
-      <br/>
-<p>
-Tristan Heyne <br/>
-St.Ilgenerstraße 5 <br/>
-69190 Walldorf <br/>
-Tel: +4915792455387 <br/>
+JRM Records UG(haftungsbeschränkt)
+St.Ilgenerstraße 5
+69190 Walldorf
+
+Amtsgericht Mannheim
+HRB 750245
+
+Vertreten durch die beiden Geschäftsführer: Valentin Issa Schlosser, Tristan Heyne
+
+Tel:01629440598
 Email: contact@jrmrecords.com
 </p>
 <br/>
