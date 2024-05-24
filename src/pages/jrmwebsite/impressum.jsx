@@ -41,6 +41,7 @@ function LandingPreview() {
       <br/>
       <br/>
         <h5>Impressum</h5>
+        <h2>Angaben gemäß § 5 TMG</h2>
         <h2>Verantwortliche:</h2>
 <p>
 JRM Records UG(haftungsbeschränkt)
@@ -49,6 +50,8 @@ St.Ilgenerstraße 5
 
 Amtsgericht Mannheim
 HRB 750245
+
+USt-IdNr.: DE366853787
 
 Vertreten durch die beiden Geschäftsführer: Valentin Issa Schlosser, Tristan Heyne
 
