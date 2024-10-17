@@ -28,7 +28,7 @@ function LandingPreview() {
   return (
     <>
       <Head>
-        <title>Juniormafia</title>
+        <title>JRM Records</title>
       </Head>
       <main>
       <Navigation/>
